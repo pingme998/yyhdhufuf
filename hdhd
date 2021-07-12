@@ -1,0 +1,292 @@
+curl 'https://cloud.degoo.com/drive-1qnljymseg9_' \
+  -H 'Connection: keep-alive' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: __stripe_mid=2b9bcec7-a56d-462a-a7d3-ea52a86572d3b4bfcd; __stripe_sid=b2b2fd96-c96a-4c95-8d62-89f25d6ca6637bafab; _s=L5e87bo27aoTBAa2b%2FF0K9n5947Yq73%2Byx1jwHmqUxSAT0jFzconK5S0SCscWErI; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22zFQxOC1kf84TG0ERaF8icpX_TeY%22%2C%22%24device_id%22%3A%20%2217a9ad7d97057-0457eee002c3fb-746b0855-dff57-17a9ad7d97211c%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22%24user_id%22%3A%20%22zFQxOC1kf84TG0ERaF8icpX_TeY%22%7D' \
+  --compressed ;
+curl 'https://s82i.app.link/C2rs01zXPhb?_p=c11530dc9a0362eee31a90ffeb' \
+  -H 'authority: s82i.app.link' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: none' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _s=P7iaIWtsEM3%2FC3ovXu5JrJnAYvjR2m8XDLytUfpq7ahl8Pu2sRd88%2Fvre8inBJCW' \
+  --compressed ;
+curl 'https://degoo.com/g/AhDwfhXK08cp?_branch_match_id=941917843071635038' \
+  -H 'authority: degoo.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: none' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: lang=; __RequestVerificationToken=4Cag5N0L-NxBjygiTbhleP4pVoQ8ptfQhERZyvflsfm1375aTB7EgKvV-Caww1QCtQWYZUQ25XzM2hahvR5CpJJqyWEYW-DCQT3zoRY-SiM1; __stripe_mid=2b9bcec7-a56d-462a-a7d3-ea52a86572d3b4bfcd; AcceptCookies=uc0BxN-Hp8ZCoZCuPj5ckAUmL3E6Ga4wRUwfuXtLX1RkuoAfr2q4aiXumhbUW7nP7AjA4apODiVwQX51jqumkA; invite=; pid=; ulc=34jzWfzB3hdpcK5UDQUx1H4tDzCepjBH5yGX0wyvfmv5rDkcpudD_1vvdamQLgeoeTzNVWqSKzwf5I8H0vpiuA; __stripe_sid=b2b2fd96-c96a-4c95-8d62-89f25d6ca6637bafab; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22zFQxOC1kf84TG0ERaF8icpX_TeY%22%2C%22%24device_id%22%3A%20%2217a9ad7d97057-0457eee002c3fb-746b0855-dff57-17a9ad7d97211c%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22%24user_id%22%3A%20%22zFQxOC1kf84TG0ERaF8icpX_TeY%22%7D' \
+  --compressed ;
+curl 'https://degoo.com/Content/Fonts/TitlingFBGothicNormalMedium.woff' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Fonts/Roboto-Regular-webfont.woff' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Fonts/Roboto-Italic-webfont.woff' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Fonts/Roboto-Bold-webfont.woff' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Fonts/Roboto-BoldItalic-webfont.woff' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/cdn-cgi/apps/head/QYtXIeRE3d5behGjEEcOJ69k7yU.js' \
+  -H 'Referer: https://degoo.com/g/AhDwfhXK08cp?_branch_match_id=941917843071635038' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://kajfghlhfkcocafkcjlajldicbikpgnp/catcher.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/cdn-cgi/apps/body/UdWMaKOcS9wGmmwYO812gNKIV-Y.js' \
+  -H 'Referer: https://degoo.com/g/AhDwfhXK08cp?_branch_match_id=941917843071635038' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Images/degoo_uhm_19.jpg?v=210118' \
+  -H 'Referer: https://degoo.com/Content/section-d.css?v=dJy5Q69AWa_x4wDd5MrlLmpmKr19M2xvsDbP6BEjpnc1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Images/degoo_logo_150.png' \
+  -H 'Referer: https://degoo.com/Content/section-d.css?v=dJy5Q69AWa_x4wDd5MrlLmpmKr19M2xvsDbP6BEjpnc1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Images/g-signin.png' \
+  -H 'Referer: https://degoo.com/Content/section-d.css?v=dJy5Q69AWa_x4wDd5MrlLmpmKr19M2xvsDbP6BEjpnc1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Images/AppStore/GooglePlay.png' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Images/AppStore/AppStore.png' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Images/AppStore/AppGallery.png?v=1' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Content/Images/AppStore/GalaxyStore.png' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/Scripts/general-d.js?v=0gvLgCbuVfnAxbfaS6MLIvpUfWvJKk7LKooZ0M16gbY1' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/' \
+  -H 'authority: js.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://degoo.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: "730ec937c6afe61d0e253d5e48556918"' \
+  -H 'if-modified-since: Fri, 09 Jul 2021 16:18:07 GMT' \
+  --compressed ;
+curl 'https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://instant.page/5.1.0' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/site.webmanifest?v=3eB5GjaPya' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://degoo.com/android-chrome-144x144.png?v=3eB5GjaPya' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/m-outer-c19b0c166354f5488c8a7f316eaada90.html' \
+  -H 'authority: js.stripe.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'referer: https://degoo.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: "c19b0c166354f5488c8a7f316eaada90"' \
+  -H 'if-modified-since: Tue, 22 Jun 2021 21:59:33 GMT' \
+  --compressed ;
+curl 'https://js-agent.newrelic.com/nr-1210.min.js' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://bam.nr-data.net/1/ed4e3973ab?a=964346046,3050872&v=1210.e2a3f80&to=ZFVTN0dSXhcDVU1dCl0ffDV2HHgLD1N6WwtHQl4PWVZCSzFfXloQQw%3D%3D&rst=5766&ck=1&ref=https://degoo.com/g/AhDwfhXK08cp&ap=28&be=3713&fe=5550&dc=5469&perf=%7B%22timing%22:%7B%22of%22:1626112885121,%22n%22:0,%22f%22:1595,%22dn%22:1633,%22dne%22:1702,%22c%22:1702,%22s%22:1794,%22ce%22:1895,%22rq%22:1901,%22rp%22:2049,%22rpe%22:2547,%22dl%22:2230,%22di%22:3277,%22ds%22:3541,%22de%22:3541,%22dc%22:3666,%22l%22:3666,%22le%22:3866%7D,%22navigation%22:%7B%7D%7D&fp=3435&fcp=3435&jsonp=NREUM.setToken' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: JSESSIONID=cbdbc37c284d8f9f' \
+  --compressed ;
+curl 'https://js.stripe.com/v3/fingerprinted/js/m-outer-d887d0dff5675390e1f75e9f1623eaa0.js' \
+  -H 'Referer: https://js.stripe.com/v3/m-outer-c19b0c166354f5488c8a7f316eaada90.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://kajfghlhfkcocafkcjlajldicbikpgnp/catcher.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://m.stripe.network/inner.html' \
+  -H 'authority: m.stripe.network' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'referer: https://js.stripe.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60a6a315-3a4"' \
+  -H 'if-modified-since: Thu, 20 May 2021 17:57:41 GMT' \
+  --compressed ;
+curl 'chrome-extension://kajfghlhfkcocafkcjlajldicbikpgnp/catcher.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://m.stripe.network/out-4.5.35.js' \
+  -H 'authority: m.stripe.network' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://m.stripe.network/inner.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60a6a315-153a9"' \
+  -H 'if-modified-since: Thu, 20 May 2021 17:57:41 GMT' \
+  --compressed ;
+curl 'https://m.stripe.com/6' \
+  -H 'authority: m.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'accept: */*' \
+  -H 'origin: https://m.stripe.network' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://m.stripe.network/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: m=a42c73b3-ad17-4b05-8e40-68c2230e4243a1d4ff' \
+  --data-raw 'JTdCJTIydjIlMjIlM0ExJTJDJTIyaWQlMjIlM0ElMjJiZGIwMjg4NGZlOGYxZTY5Mzc3MjgxMTA2ZWFlZjJlNiUyMiUyQyUyMnQlMjIlM0EyNDYuMTYlMkMlMjJ0YWclMjIlM0ElMjI0LjUuMzUlMjIlMkMlMjJzcmMlMjIlM0ElMjJqcyUyMiUyQyUyMmElMjIlM0FudWxsJTJDJTIyYiUyMiUzQSU3QiUyMmElMjIlM0ElMjIlMjIlMkMlMjJiJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZBNC1JSjNKRHBXbFJQSzBLeGZ3eUxQNzBiaHlGQUVQQ1c0cGxBX0NjTWdjLmcydTktaHFadkdJcVlKY1BsUGZ3SkFmLXYzUmd5S194MU5wcHpBbEExMk0lMjIlMkMlMjJjJTIyJTNBJTIyaXc2cWI3cGhOMkU4Q0FUM3BoX0dGbjdkeG53QzJvanFYUTZCYzV1Z04wRSUyMiUyQyUyMmQlMjIlM0ElMjIyYjliY2VjNy1hNTZkLTQ2MmEtYTdkMy1lYTUyYTg2NTcyZDNiNGJmY2QlMjIlMkMlMjJlJTIyJTNBJTIyYjJiMmZkOTYtYzk2YS00Yzk1LThkNjItODlmMjVkNmNhNjYzN2JhZmFiJTIyJTJDJTIyZiUyMiUzQWZhbHNlJTJDJTIyZyUyMiUzQXRydWUlMkMlMjJoJTIyJTNBdHJ1ZSUyQyUyMmklMjIlM0ElNUIlMjJsb2NhdGlvbiUyMiU1RCUyQyUyMmolMjIlM0ElNUIlNUQlMkMlMjJuJTIyJTNBMTM4OC45NjAwMDAwMTExMzg2JTJDJTIydSUyMiUzQSUyMmRlZ29vLmNvbSUyMiU3RCUyQyUyMmglMjIlM0ElMjI0MGVlMGUxZTljYTQ4ZjIzM2QwYSUyMiU3RA==' \
+  --compressed ;
+curl 'https://api-js.mixpanel.com/track/?verbose=1&ip=1&_=1626112894809' \
+  -H 'authority: api-js.mixpanel.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'accept: */*' \
+  -H 'origin: https://degoo.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://degoo.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw 'data=WwogICAgeyJldmVudCI6ICJWaWV3ZWQgSW52aXRlIGxhbmRpbmciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJDaHJvbWUiLCIkY3VycmVudF91cmwiOiAiaHR0cHM6Ly9kZWdvby5jb20vZy9BaER3ZmhYSzA4Y3A%2FX2JyYW5jaF9tYXRjaF9pZD05NDE5MTc4NDMwNzE2MzUwMzgiLCIkYnJvd3Nlcl92ZXJzaW9uIjogODksIiRzY3JlZW5faGVpZ2h0IjogNjc3LCIkc2NyZWVuX3dpZHRoIjogMTM1NSwibXBfbGliIjogIndlYiIsIiRsaWJfdmVyc2lvbiI6ICIyLjQxLjAiLCIkaW5zZXJ0X2lkIjogIjUwMTh3NnBzN2J5dndyYWIiLCJ0aW1lIjogMTYyNjExMjg5MC4wMiwiZGlzdGluY3RfaWQiOiAiekZReE9DMWtmODRURzBFUmFGOGljcFhfVGVZIiwiJGRldmljZV9pZCI6ICIxN2E5YWQ3ZDk3MDU3LTA0NTdlZWUwMDJjM2ZiLTc0NmIwODU1LWRmZjU3LTE3YTlhZDdkOTcyMTFjIiwiJHNlYXJjaF9lbmdpbmUiOiAiZ29vZ2xlIiwiJGluaXRpYWxfcmVmZXJyZXIiOiAiaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8iLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5nb29nbGUuY29tIiwiJHVzZXJfaWQiOiAiekZReE9DMWtmODRURzBFUmFGOGljcFhfVGVZIiwidG9rZW4iOiAiMDM1N2FhMTczMDk2YjVkOWFkYTg4MDMwZmJiMWRlMzAifX0KXQ%3D%3D' \
+  --compressed ;
+curl 'https://bam.nr-data.net/events/1/ed4e3973ab?a=964346046,3050872&v=1210.e2a3f80&to=ZFVTN0dSXhcDVU1dCl0ffDV2HHgLD1N6WwtHQl4PWVZCSzFfXloQQw%3D%3D&rst=15768&ck=1&ref=https://degoo.com/g/AhDwfhXK08cp' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'content-type: text/plain' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: JSESSIONID=cbdbc37c284d8f9f' \
+  --data-raw $'bel.6;e,\'load,4a6,1;6,\'cls,0.' \
+  --compressed ;
+curl 'https://m.stripe.com/6' \
+  -H 'authority: m.stripe.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'accept: */*' \
+  -H 'origin: https://m.stripe.network' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://m.stripe.network/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: m=a42c73b3-ad17-4b05-8e40-68c2230e4243a1d4ff' \
+  --data-raw 'JTdCJTIybXVpZCUyMiUzQSUyMjJiOWJjZWM3LWE1NmQtNDYyYS1hN2QzLWVhNTJhODY1NzJkM2I0YmZjZCUyMiUyQyUyMnNpZCUyMiUzQSUyMmIyYjJmZDk2LWM5NmEtNGM5NS04ZDYyLTg5ZjI1ZDZjYTY2MzdiYWZhYiUyMiUyQyUyMnVybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGQTQtSUozSkRwV2xSUEswS3hmd3lMUDcwYmh5RkFFUENXNHBsQV9DY01nYy5nMnU5LWhxWnZHSXFZSmNQbFBmd0pBZi12M1JneUtfeDFOcHB6QWxBMTJNJTJGRHVfZkZCc0YtMGtYX2tlQTFyZFpYNmZOWjMyYTNFa0l6Q0Y4VXdKZi1GQSUyRnU3TmFtLWdrSDA3alZRa04zU1ZjV3JuT1AzZVpCbU9ZdEFVRmtybEhZNGMlM0ZzZ05UR2NtWl8xbkxoYVBRQmFlbEVrSXRPdmw4clJqWWFrQXdxYUNKZjlZJTNEUnZJSTZkX1h4eFZNakhMX3NwdVBISjdBU1NXSXJCVzNNeGZ4Szk3QmtXZyUyMiUyQyUyMnNvdXJjZSUyMiUzQSUyMm1vdXNlLXRpbWluZ3MtMTAlMjIlMkMlMjJkYXRhJTIyJTNBJTVCMTY0OTElMkMyJTJDMTglMkMxNDE4JTJDMjMlMkMxNyUyQzIzNTMlMkM1JTJDMTUlMkMxMSU1RCU3RA==' \
+  --compressed ;
+curl 'https://bam.nr-data.net/events/1/ed4e3973ab?a=964346046,3050872&v=1210.e2a3f80&to=ZFVTN0dSXhcDVU1dCl0ffDV2HHgLD1N6WwtHQl4PWVZCSzFfXloQQw%3D%3D&rst=45799&ck=1&ref=https://degoo.com/g/AhDwfhXK08cp' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'content-type: text/plain' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://degoo.com/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: JSESSIONID=cbdbc37c284d8f9f' \
+  --data-raw $'bel.6;e,\'fi,nup,3;5,\'type,\'pointerdown;6,\'fid,19.;6,\'cls,0.;e,\'lcp,439,3;6,\'size,70656.;5,\'eid;6,4,0.' \
+  --compressed ;
+curl 'https://degoo.com/me/signup' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'Origin: https://degoo.com' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Referer: https://degoo.com/' \
+  --data-raw '__RequestVerificationToken=UhcKDDW58PmMALLPYGXjep1F68s6y5ogbTh9iiSVGP8NSJbDXGZAkzAGHnrsjSAsBS1anoRSL-l7DeOm4yPZZYiC3_Wr6XYjYNjRrThhQ6I1&PremiumID=&Invite=AhDwfhXK08cp&RedirectUrl=&Action=Signup&Source=&PromotionID=&Email=vidal%40mailto.plus&Password=vidal%40mailto.plus' \
+  --compressed ;
+curl 'data:image/png;base64,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' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'data:image/png;base64,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' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQBAMAAAAVaP+LAAAAGFBMVEUAAABTU1NNTU1TU1NPT09SUlJSUlJTU1O8B7DEAAAAB3RSTlMAoArVKvVgBuEdKgAAAJ1JREFUeF7t1TEOwyAMQNG0Q6/UE+RMXD9d/tC6womIFSL9P+MnAYOXeTIzMzMzMzMzaz8J9Ri6HoITmuHXhISE8nEh9yxDh55aCEUoTGbbQwjqHwIkRAEiIaG0+0AA9VBMaE89Rogeoww936MQrWdBr4GN/z0IAdQ6nQ/FIpRXDwHcA+JIJcQowQAlFUA0MfQpXLlVQfkzR4igS6ENjknm/wiaGhsAAAAASUVORK5CYII=' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed
